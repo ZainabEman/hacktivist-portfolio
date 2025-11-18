@@ -8,7 +8,7 @@
 
 ### 1. URL of the Site (Single Page)
 
-**Live Site URL:** `file:///path/to/your/project/index.html`
+**Live Site URL:** `[portfolio](https://zainabeman.github.io/hacktivist-portfolio/)`
 
 > **Note:** This is a static website consisting of three files:
 > - `index.html`
@@ -20,10 +20,6 @@
 > 2. Open `index.html` in any modern web browser (Chrome, Firefox, Edge, Safari)
 > 3. The site is fully responsive and works on desktop and mobile devices
 
-**Alternative Hosting Options:**
-- GitHub Pages: `https://yourusername.github.io/operation-digital-justice/`
-- Netlify: `https://operation-digital-justice.netlify.app/`
-- Vercel: `https://operation-digital-justice.vercel.app/`
 
 ---
 
@@ -197,44 +193,6 @@ The website includes a comprehensive "Security Team Playbook" featuring five cri
 
 ---
 
-## 📸 Screenshots
-
-### Hero Section
-> Large title "OPERATION DIGITAL JUSTICE" with glitch effect, subheading about corporate accountability, and prominent CTA button.
-
-### Attacker Profile
-> Four-card grid showing MOTIVE, TACTICS, TARGET, and IMPACT in neon-accented cards with icons.
-
-### Artifacts Section
-> Three realistic mock artifacts: manifesto excerpt, leaked email, and social media brag post.
-
-### Timeline
-> Three-phase vertical timeline with numbered markers, detailed bullet points, and expandable details.
-
-### Countermeasures
-> Five-item grid showing defensive strategies with icons and descriptions.
-
----
-
-## ✅ Assignment Checklist
-
-- [x] Single-page website created
-- [x] Pure HTML, CSS, JavaScript (no frameworks)
-- [x] Gen Z cyber aesthetic implemented
-- [x] Dark mode with neon accents
-- [x] Attacker profile (motive, tactics, target, impact)
-- [x] Three realistic artifacts included
-- [x] Three-phase timeline (recon → delivery → impact)
-- [x] Defender countermeasures section
-- [x] 150-200 word narration script
-- [x] Interactive elements (smooth scroll, click events)
-- [x] Responsive design (mobile & desktop)
-- [x] Clean, commented code
-- [x] Footer with attacker type declaration
-- [x] Educational disclaimer included
-
----
-
 ## 🚀 How to Run
 
 1. **Download all files:**
@@ -273,11 +231,11 @@ The website includes a comprehensive "Security Team Playbook" featuring five cri
 
 ## 👨‍💻 Author Information
 
-**Student Name:** [Your Name]  
-**Course:** Cyber Security Fundamentals  
+**Student Name:** zainab Eman  
+**Course:** Secure Software Design  
 **Assignment:** Portray the Attacker - Story + Website  
-**Submission Date:** [Your Date]  
-**Instructor:** [Instructor Name]
+**Submission Date:** 18 November 2025
+**Instructor:** M Awais Azam
 
 ---
 
@@ -293,18 +251,11 @@ The website includes a comprehensive "Security Team Playbook" featuring five cri
 
 ---
 
-## 📞 Contact & Support
-
-For questions about this project:
-- **Email:** [your.email@university.edu]
-- **GitHub:** [github.com/yourusername]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-
 ---
 
 ## 🙏 Acknowledgments
 
-- Anthropic Claude for development assistance
+- Imama Kainat
 - Course materials on cyber threat actors
 - MITRE ATT&CK Framework for attack pattern reference
 - OWASP for security best practices
@@ -316,28 +267,6 @@ For questions about this project:
 This project is created for educational purposes as part of a university assignment. All content is fictional and should not be used for any malicious purposes.
 
 ---
-
-## 🔗 Quick Links
-
-- [Assignment Brief](link-to-assignment-pdf)
-- [Course Homepage](link-to-course)
-- [Cyber Security Resources](link-to-resources)
-
----
-
-**Last Updated:** November 18, 2025
-
-**Status:** ✅ Complete and Ready for Submission
-
----
-
-# 🎯 FINAL SUBMISSION SUMMARY
-
-## 1. URL of the Site
-**File Path:** `index.html` (open in browser)
-
-## 2. Attacker Story Script (197 words)
-See "Narration for Presentation" section above
 
 ## 3. Attacker Type Declaration
 **Our attacker type is: Hacktivists**
